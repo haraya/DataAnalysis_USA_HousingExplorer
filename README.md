@@ -28,8 +28,7 @@ By the end of this journey, you'll gain insights into the US housing market and 
 This project expects to provide valuable insights into US housing market trends, identify factors influencing house prices, and understand how the market has evolved over time.
 
 # Author
-- Name: Hernán Araya
-- Email: hernan.araya96@outlook.com
-- Jupyter URL: https://jupyter.org/try-jupyter/lab/index.html?path=Hernan%2FSold_Houses.ipynb
+- Name: Hernán Araya  
+- Email: hernan.araya96@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/hernanarayalopez/
 
-![image](https://github.com/haraya/DataAnalysis_USHousingExplorer/assets/58577750/fef304b9-f111-4213-8d54-b8c0a590e275)
